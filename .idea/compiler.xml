@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="consuldemo" />
+        <module name="eureka-client" />
+        <module name="eureka-consumer" />
         <module name="eurekaclient" />
         <module name="eurekaconsumer" />
         <module name="eurekademo" />
+        <module name="feign-client" />
         <module name="feignclient" />
       </profile>
     </annotationProcessing>

@@ -19,4 +19,8 @@ public class TestController {
         System.out.println("--------------");
         return testService.test();
     }
+
+    public static void main(String[] args) {
+        System.out.println(999_999_999);
+    }
 }
